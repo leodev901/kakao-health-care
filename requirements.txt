@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+pydantic
+python-dotenv==1.2.2
+openai==2.29.0
+google-genai==1.68.0
+langchain-core==1.2.22
